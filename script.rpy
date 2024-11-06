@@ -1,5 +1,3 @@
-﻿# Kamu dapat taruh script game mu di file ini.
-# Deklarasikan karakter yang digunakan di game.
 define c = Character('Cinderella', color="#c8ffc8")
 define p = Character(_("Prince"), color="#c8c8ff")
 
